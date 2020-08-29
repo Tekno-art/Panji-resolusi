@@ -2,3 +2,4 @@ Pencapaian Yang Harus Dilakukan Oleh Panji:
   -Disiplin Dalam Melakukan jadwal Belajar Tentang WEB design
   -Konsisten Dalam Mengelola akun Fiver dan Website DT'art.com
   -Jadi Web Development dan Android Development Profesional
+  -Belajar library React.js
