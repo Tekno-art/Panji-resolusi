@@ -1,9 +1,10 @@
 Pencapaian Yang Harus Dilakukan Oleh Panji:
   -Disiplin Dalam Melakukan jadwal Belajar Tentang WEB design
-  -Konsisten Dalam Mengelola akun Fiver dan Website DT'art.com
+  -Konsisten Dalam Mengelola akun Fiver dan Website teknoart.site
   -Jadi Web Development dan Android Development Profesional
 Target Konsep setelah Kerja(Bulan depan):
-  -membuat wesbite Artikel page DT'art.com
-  -membuat website Parallax dan kombinasi svg morph
-  -Membuat website makanan dengan scroll effect.
-  -membuat website UX/UI
+  -melanjutkan pembuatan website teknoart.site
+   * Membuat project dengan design ui/ux setiap project selesai posting sebagai gigs di fiverr.com dan posting di IG:
+      -membuat website Parallax dan kombinasi svg morph
+      -Membuat website makanan
+      -Membuat website/web app dompet digital(Bank penyimpanan Uang)
